@@ -182,3 +182,4 @@ Pet images are stored in `backend/storage/app/public/pets`. Make sure to run `ph
 This project is open source and available for educational purposes.
 
 "# AdoPet" 
+"# Simon1" 
